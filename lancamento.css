@@ -1,0 +1,28 @@
+body {
+
+/* Centralizar logo */
+.logo-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+}
+nav ul.links {
+	display: flex;
+	justify-content: center;
+	padding: 0;
+}
+nav ul.links li {
+	margin: 0 10px;
+	list-style: none;
+}
