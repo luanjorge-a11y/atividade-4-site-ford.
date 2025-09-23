@@ -1,28 +1,11 @@
-body {
 
-/* Centralizar logo */
-.logo-container {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 100%;
-	margin: 0 auto;
+
+.video-lancamento {
+    text-align: center; /* Centraliza o conteúdo dentro da seção */
 }
 
-
-
-
-
-
-
-
+.video-lancamento iframe {
+    display: block; /* Garante que o iframe seja tratado como um bloco */
+    margin: 0 auto; /* Centraliza o iframe horizontalmente */
 }
-nav ul.links {
-	display: flex;
-	justify-content: center;
-	padding: 0;
-}
-nav ul.links li {
-	margin: 0 10px;
-	list-style: none;
-}
+ 
