@@ -1,4 +1,3 @@
- 
 img[src="imagem_1.jpg"] {
     width: 75%;
     height: auto;
@@ -9,4 +8,13 @@ img[src="imagem_1.jpg"] {
 .logo-container {
     text-align: center;
 }
- 
+
+ #pp{
+display: flex;
+justify-content: center;
+align-items: center;
+ }
+
+ #pp-1{
+    padding-left: 2px;
+ }
