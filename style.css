@@ -9,10 +9,12 @@
     border: 0;
 }
 hr{
-    border: 1px solid #ccc;
-    margin: 20px 0;
+    
 }
 header{
+    
+    border-bottom: 1px solid #ccc;
+   
     align-items: center;
     justify-content: space-between;
     text-align: center;
@@ -38,7 +40,7 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #1b3571;
+    background-color: #1b357e;
     color: #fff;
    width: 100%;
    bottom: 0;

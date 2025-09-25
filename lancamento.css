@@ -8,4 +8,40 @@
     display: block; /* Garante que o iframe seja tratado como um bloco */
     margin: 0 auto; /* Centraliza o iframe horizontalmente */
 }
- 
+.tabelaCarros {
+
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    
+    margin-bottom: 0;
+    text-align: center;
+    justify-content: center; 
+    align-items: center;
+    }
+    .espaco {
+       .submit-botao{
+    background-color: #1351d8;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin: 10px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    max-width: 200px;
+}
+
+.submit-botao:hover{
+    background-color: #00274c;
+    color: #fff;
+    transform: translateY(-2px);
+}
+        
+    }
+    .
